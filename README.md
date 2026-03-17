@@ -24,10 +24,6 @@ flowchart LR
     E[NGINX<br/>Edge Cache] --> B
 ```
 
-## 🏗️ Architecture Overview
-
-![Architecture](./architecture.png)
-
 
 ## 📦 Projects
 
