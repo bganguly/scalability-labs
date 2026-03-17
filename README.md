@@ -34,7 +34,6 @@ flowchart LR
 - Measures Time-To-Visible (TTV)
 - Sends metrics to backend
 
----
 
 ### 2. Node Load Testing (k6)
 **Repo:** https://github.com/bganguly/node-load-testing-k6
@@ -45,7 +44,6 @@ flowchart LR
   - Throughput
   - Error rate
 
----
 
 ### 3. Redis Caching Demo
 **Repo:** https://github.com/bganguly/redis-caching-demo
@@ -53,7 +51,6 @@ flowchart LR
 - Adds Redis caching to reduce backend load
 - Demonstrates performance improvement under load
 
----
 
 ### 4. CDN Simulation (NGINX)
 **Repo:** https://github.com/bganguly/cdn-simulation-nginx
@@ -61,7 +58,6 @@ flowchart LR
 - Simulates edge caching using NGINX
 - Reduces backend hits and improves response time
 
----
 
 ## 📊 Results Summary
 
@@ -71,7 +67,6 @@ flowchart LR
 | Redis Cache    | 500                    | ~500ms          |
 | CDN Simulation | 500                    | ~250ms          |
 
----
 
 ## 🔥 Key Learnings
 
@@ -80,7 +75,6 @@ flowchart LR
 - Moving caching closer to the user (CDN) provides the biggest gains
 - Measuring real user metrics (TTV) is more meaningful than raw API timing
 
----
 
 ## 🧪 How to Run
 
@@ -93,7 +87,6 @@ Typical flow:
 3. Open React app
 4. Observe Time-To-Visible under load
 
----
 
 ## 🧭 Why This Matters
 
@@ -105,13 +98,6 @@ This project demonstrates how to:
 - Apply practical optimizations
 - Validate improvements under load
 
----
-
-## 👨‍💻 Author
-
-<your-name>
-
----
 
 ## 📌 Future Improvements
 
