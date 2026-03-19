@@ -28,7 +28,7 @@ flowchart LR
 ## 📦 Projects
 
 ### 1. React TTV Visibility Demo
-**Repo:** https://github.com/bganguly/react-ttv-visibility-demo
+**Repo:** <a href="https://github.com/bganguly/react-ttv-visibility-demo" target="_blank" rel="noopener noreferrer">https://github.com/bganguly/react-ttv-visibility-demo</a>
 
 - Tracks visibility of a DOM node using IntersectionObserver
 - Measures Time-To-Visible (TTV)
@@ -36,7 +36,7 @@ flowchart LR
 
 
 ### 2. Node Load Testing (k6)
-**Repo:** https://github.com/bganguly/node-load-testing-k6
+**Repo:** <a href="https://github.com/bganguly/node-load-testing-k6" target="_blank" rel="noopener noreferrer">https://github.com/bganguly/node-load-testing-k6</a>
 
 - Simulates backend load using k6
 - Measures:
@@ -46,14 +46,14 @@ flowchart LR
 
 
 ### 3. Redis Caching Demo
-**Repo:** https://github.com/bganguly/redis-caching-demo
+**Repo:** <a href="https://github.com/bganguly/redis-caching-demo" target="_blank" rel="noopener noreferrer">https://github.com/bganguly/redis-caching-demo</a>
 
 - Adds Redis caching to reduce backend load
 - Demonstrates performance improvement under load
 
 
 ### 4. CDN Simulation (NGINX)
-**Repo:** https://github.com/bganguly/cdn-simulation-nginx
+**Repo:** <a href="https://github.com/bganguly/cdn-simulation-nginx" target="_blank" rel="noopener noreferrer">https://github.com/bganguly/cdn-simulation-nginx</a>
 
 - Simulates edge caching using NGINX
 - Reduces backend hits and improves response time
